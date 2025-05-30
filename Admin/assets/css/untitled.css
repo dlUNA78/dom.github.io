@@ -1,0 +1,10 @@
+.sidebar.sidebar-dark.accordion.bg-gradient-primary {
+}
+
+#container_Select,
+#select {
+  height: 50px;
+  width: 200px;
+  margin-left: 100px;
+  border-radius: 5px;
+}
